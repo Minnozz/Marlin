@@ -1,0 +1,4 @@
+{
+  "auto-build.defaultEnv.name": "STM32G0B1RE_btt",
+  "auto-build.build.silent": false
+}
